@@ -1,0 +1,6 @@
+@LearnWithIA.API.UI_HostAddress = http://localhost:5110
+
+GET {{LearnWithIA.API.UI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

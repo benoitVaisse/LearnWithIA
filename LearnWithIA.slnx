@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Build/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="LearnWithIA.API.UI/LearnWithIA.API.UI.csproj" />
+  <Project Path="LearnWithIA.Application/LearnWithIA.Application.csproj" />
+  <Project Path="LearnWithIA.Domain/LearnWithIA.Domain.csproj" />
+  <Project Path="LearnWithIA.Infrastucture/LearnWithIA.Infrastucture.csproj" />
+</Solution>

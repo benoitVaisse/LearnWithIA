@@ -7,4 +7,5 @@
   <Project Path="LearnWithIA.Application/LearnWithIA.Application.csproj" />
   <Project Path="LearnWithIA.Domain/LearnWithIA.Domain.csproj" />
   <Project Path="LearnWithIA.Infrastucture/LearnWithIA.Infrastucture.csproj" />
+  <Project Path="Shared/Shared.csproj" />
 </Solution>

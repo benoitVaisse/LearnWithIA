@@ -33,3 +33,5 @@ appsettings.json
 appsettings.Development.json
 # Visual Studio 2015
 .vs/
+
+settings.local.json

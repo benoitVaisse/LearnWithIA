@@ -30,6 +30,7 @@ public static class ConfigureRepositories
     public static IServiceCollection AddAdapters(this IServiceCollection services)
     {
         services.AddScoped<IMistralEmbeddingsAdapter, MistralEmbeddingsAdapter>();
+        services.AddScoped<IFileParserService, FileParserService>();
         return services;
     }
 }
